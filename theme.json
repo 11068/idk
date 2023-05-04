@@ -12,7 +12,7 @@
             "#ffffff"
         ],
         "HEADER_SECONDARY": [
-            "#000000"
+            "#ff0000"
         ],
         "TEXT_NORMAL": [
             "#ffffff"
@@ -48,7 +48,7 @@
             "#081924"
         ],
         "BACKGROUND_ACCENT": [
-            "#000000"
+            "#ff0000"
         ],
         "BACKGROUND_FLOATING": [
             "#081924"
