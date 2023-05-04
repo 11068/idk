@@ -12,13 +12,13 @@
             "#ffffff"
         ],
         "HEADER_SECONDARY": [
-            "#ff0000"
+            "#44ddd5"
         ],
         "TEXT_NORMAL": [
             "#ffffff"
         ],
         "TEXT_MUTED": [
-            "#000000"
+            "#ff0000"
         ],
         "TEXT_LINK": [
             "#000000"
@@ -48,7 +48,7 @@
             "#081924"
         ],
         "BACKGROUND_ACCENT": [
-            "#ff0000"
+            "#00ff00"
         ],
         "BACKGROUND_FLOATING": [
             "#081924"
