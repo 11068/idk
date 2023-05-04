@@ -1,5 +1,5 @@
 {
-    "name": "зубы жопой 3",
+    "name": "зубы жопой 2",
     "description": "stolen just because I've wanted so",
     "authors": [
         {
@@ -92,7 +92,7 @@
         "TEXT_LINK": [
             "#44ddd5"
         ],
-        "SCROLLBAR_AUTO_THUMB": [
+        "SCROLLBAR_AUTO_TRACK": [
             "#ffffff"
         ],
         "CHANNEL_ICON": [
