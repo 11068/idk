@@ -120,4 +120,10 @@
         "RED_560" : "#44ddd5",
         "RED_400": "#44ddd5"
     },
+    "spec": 2,
+    "background": {
+        "url": "https://raw.githubusercontent.com/Wizzy-TV/VendettaThemes/main/PixelCity/bg.gif",
+        "alpha": 0,
+        "color": "#081924"
+    }
 }
