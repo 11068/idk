@@ -21,10 +21,10 @@
             "#44ddd5"
         ],
         "TEXT_LINK": [
-            "#ff0000"
+            "#44ddd5"
         ],
         "TEXT_DANGER": [
-            "#000000"
+            "#00ff00"
         ],
         "INTERACTIVE_NORMAL": [
             "#ffffff"
@@ -48,7 +48,7 @@
             "#081924"
         ],
         "BACKGROUND_ACCENT": [
-            "#ff0000"
+            "#00ff00"
         ],
         "BACKGROUND_FLOATING": [
             "#081924"
