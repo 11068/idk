@@ -1,5 +1,5 @@
 {
-    "name": "зубы жопой 2",
+    "name": "зубы жопой 3",
     "description": "stolen just because I've wanted so",
     "authors": [
         {
@@ -45,7 +45,7 @@
             "#081924"
         ],
         "BACKGROUND_TERTIARY": [
-            "#ffffff"
+            "#081924"
         ],
         "BACKGROUND_ACCENT": [
             "#44ddd5"
@@ -60,7 +60,7 @@
             "#081924"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#081924"
+            "#ffffff"
         ],
         "BACKGROUND_MENTIONED": [
             "#1f2b37"
