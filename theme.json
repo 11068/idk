@@ -24,7 +24,7 @@
             "#44ddd5"
         ],
         "TEXT_DANGER": [
-            "#00ff00"
+            "#44ddd5"
         ],
         "INTERACTIVE_NORMAL": [
             "#ffffff"
@@ -48,7 +48,7 @@
             "#081924"
         ],
         "BACKGROUND_ACCENT": [
-            "#00ff00"
+            "#ff0000"
         ],
         "BACKGROUND_FLOATING": [
             "#081924"
@@ -69,7 +69,7 @@
             "#081924"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#000000"
+            "#ff0000"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "#081924"
