@@ -18,10 +18,10 @@
             "#ffffff"
         ],
         "TEXT_MUTED": [
-            "#ff0000"
+            "#44ddd5"
         ],
         "TEXT_LINK": [
-            "#000000"
+            "#ff0000"
         ],
         "TEXT_DANGER": [
             "#000000"
@@ -48,7 +48,7 @@
             "#081924"
         ],
         "BACKGROUND_ACCENT": [
-            "#00ff00"
+            "#ff0000"
         ],
         "BACKGROUND_FLOATING": [
             "#081924"
