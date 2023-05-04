@@ -12,19 +12,19 @@
             "#ffffff"
         ],
         "HEADER_SECONDARY": [
-            "#44ddd5"
+            "#000000"
         ],
         "TEXT_NORMAL": [
             "#ffffff"
         ],
         "TEXT_MUTED": [
-            "#44ddd5"
+            "#000000"
         ],
         "TEXT_LINK": [
-            "#44ddd5"
+            "#000000"
         ],
         "TEXT_DANGER": [
-            "#44ddd5"
+            "#000000"
         ],
         "INTERACTIVE_NORMAL": [
             "#ffffff"
@@ -48,7 +48,7 @@
             "#081924"
         ],
         "BACKGROUND_ACCENT": [
-            "#44ddd5"
+            "#000000"
         ],
         "BACKGROUND_FLOATING": [
             "#081924"
@@ -69,7 +69,7 @@
             "#081924"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#44ddd5"
+            "#000000"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "#081924"
@@ -90,7 +90,7 @@
             "#c4c4c4"
         ],
         "TEXT_LINK": [
-            "#44ddd5"
+            "#000000"
         ],
         "CHANNEL_ICON": [
             "#ffffff"
