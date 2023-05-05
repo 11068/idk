@@ -1,5 +1,5 @@
 {
-    "name": "зубы жопой 3",
+    "name": "зубы жопой 2",
     "description": "stolen just because I've wanted so",
     "authors": [
         {
@@ -118,7 +118,7 @@
         "GREEN_345": "#44ddd5",
         "GREEN_360": "#44ddd5",
         "RED_560" : "#44ddd5",
-        "RED_400": "#44ddd5"
+        "RED_400": "#ff0000"
     },
     "spec": 2
 }
