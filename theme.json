@@ -1,5 +1,5 @@
 {
-    "name": "зубы жопой 2",
+    "name": "зубы жопой 3",
     "description": "stolen just because I've wanted so",
     "authors": [
         {
@@ -110,13 +110,13 @@
         "BRAND_260": "#44ddd5",
         "BRAND_360": "#44ddd5",
         "BRAND_500": "#44ddd5",
-        "BRAND_560": "#ffffff",
+        "BRAND_560": "#44ddd5",
         "WHITE_500": "#ffffff",
         "BLUE_345": "#44ddd5",
         "YELLOW_300": "#44ddd5",
         "ORANGE_345": "#44ddd5",
         "GREEN_345": "#44ddd5",
-        "GREEN_360": "#44ddd5",
+        "GREEN_360": "#00ff00",
         "RED_560" : "#44ddd5",
         "RED_400": "#ff0000"
     },
